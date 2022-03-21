@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: purple;
   overflow-y: auto;
 }
 #header .profile img {
@@ -296,11 +296,15 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.row skills-content{
+background-color: #149ddd;
+}
 .skills .progress {
   height: 60px;
   display: block;
   background: none;
   border-radius: 0;
+  
 }
 .skills .progress .skill {
   padding: 0;
