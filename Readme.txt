@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for opening my portfolio website
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Template Name: myportfolio
+Template URL: https://github.com/kemboy-svg/Myportffolio/edit/main/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+License:https://github.com/kemboy-svg/
