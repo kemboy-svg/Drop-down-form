@@ -434,13 +434,16 @@ section {
   color: #fff;
 }
 .contact .php-email-form {
-  width: 150%;
-  padding: 100px;
+  padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  margin-left: 120%;
+  background-color: #149ddd;
+  width: 1200px;
 }
 .contact .php-email-form .form-group {
   padding-bottom: 8px;
+  
 }
 .contact .php-email-form .validate {
   display: none;
@@ -492,16 +495,20 @@ section {
 .contact .php-email-form label {
   padding-bottom: 8px;
 }
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .php-email-form input {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
+
 }
+
 .contact .php-email-form input {
   height: 44px;
+  width: fit-content;
 }
 .contact .php-email-form textarea {
   padding: 10px 15px;
+  width: auto;
 }
 .contact .php-email-form button[type=submit] {
   background: #149ddd;
