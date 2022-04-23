@@ -434,8 +434,8 @@ section {
   color: #fff;
 }
 .contact .php-email-form {
-  width: 100%;
-  padding: 30px;
+  width: 150%;
+  padding: 100px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
